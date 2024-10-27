@@ -2,8 +2,7 @@ baseURL = 'https://me.nerocrux.com/'
 languageCode = 'en-us'
 title = 'nerocrux'
 theme = "hugo-theme-m10c"
-avatar = "assets/N512.png"
-assetDir = "assets"
+avatar = "avatar.jpg"
 
 [pagination]
   pagerSize = 8
@@ -19,11 +18,6 @@ assetDir = "assets"
     name = "Articles"
     url = "/articles/"
     weight = 2
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
 
 [params]
   author = "Peichao Yu"
