@@ -2,6 +2,7 @@ baseURL = 'https://me.nerocrux.com/'
 languageCode = 'en-us'
 title = 'nerocrux'
 theme = "hugo-theme-m10c"
+avatar = "assets/N512.png"
 
 [pagination]
   pagerSize = 8
