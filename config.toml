@@ -7,17 +7,9 @@ avatar = "avatar.jpg"
 [pagination]
   pagerSize = 8
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "articles"
-    name = "Articles"
-    url = "/articles/"
-    weight = 2
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
 
 [params]
   author = "Peichao Yu"
