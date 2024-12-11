@@ -7,6 +7,7 @@ draft: false
 
 ### 2024
 
+- [2024/12/09] [ユビーにパスキーを導入しました](https://zenn.dev/ubie_dev/articles/87e2dcbc89e82e)
 - [2024/07/29] [マツコの知らない LINE ログインの世界](https://zenn.dev/ubie_dev/articles/a4351079da6dd9)
 
 ### 2023
